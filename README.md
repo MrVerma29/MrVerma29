@@ -24,7 +24,7 @@ Let’s connect and collaborate on transforming data into meaningful actions!
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -55,7 +55,8 @@ Let’s connect and collaborate on transforming data into meaningful actions!
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+ 
 
 
 ## Connect with me  
