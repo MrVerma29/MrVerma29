@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/MrVerma29/Image/blob/main/New-file%20(2).gif" align="center" style="width: 100%" />
+<img src="https://github.com/MrVerma29/Image/blob/main/New-file%20(2).gif" align="center" style="height: 50%" />
 </div>  
   
 
@@ -37,7 +37,7 @@ Welcome to my GitHub profile, where I share my journey through data science, ana
   
 - **Fitness Enthusiast**: Committed to a balanced lifestyle that enhances focus and professional growth.
 
-Feel free to explore my projects and connect with me! 
+## Feel free to explore my projects and connect with me! 
   
 
 <br/>  
