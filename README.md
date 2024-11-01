@@ -3,21 +3,41 @@
 </div>  
   
 
-### <div align="center">I'm Sarthak, a BBA Decision Science student at Christ University (Industry Integrated), dedicated to mastering the art of data analysis. 🚀</div>  
+### <div align="center"># Hi there! 👋 I'm Sarthak Priyank Verma.....🚀</div>  
   
 
-- 🔭 Currently, I drive insights and solutions as an apprentice at MuSigma, where I apply my skills in SQL, MySQL, Python, R, and Advanced Excel to tackle real-world data challenges.  
+Welcome to my GitHub profile, where I share my journey through data science, analytics, and beyond. Here’s a quick overview of my achievements, experience, and interests:
+
+## 🎓 Achievements
+- **Merit Scholarship Awardee**: Recognized for academic excellence in the BBA Decision Science program at Christ University, 2024.
+- **HackerRank Certified in SQL**: Four-star badge holder, showcasing proficiency in querying and data manipulation.
+
+## 💼 Professional Experience
+- **Decision Science Intern at Mu Sigma**: Over two years of experience in innovative problem-solving and advanced analytics. Skilled in executing exploratory data analysis (EDA) and building predictive models with up to 94% accuracy to drive business growth.
   
+- **Data Analyst Intern at Unified Mentor**: Developed dynamic data visualizations and forecasts using Python and Power BI, optimizing marketing strategies to enhance ROI.
 
-- 🌱 At MuSigma, I craft complex queries, execute comprehensive Exploratory Data Analysis (EDA), and automate data processes. I transform raw data into actionable insights using Tableau and Power BI, enabling teams to make data-driven decisions. My role constantly engages my critical thinking and problem-solving abilities, uncovering insights that drive business performance.  
+- **Freelance Data Specialist for SpEC (Dubai)**: Engineered a YoY Power BI dashboard, providing leadership with insights into sales trends and regional performance across markets.
+
+## 📊 Areas of Expertise
+- **Data Analysis & Visualization**: Proficient in Python (Pandas, Numpy, Seaborn, Matplotlib) and R for deriving actionable insights from complex datasets.
   
+- **Database Management & SQL**: Experienced in designing database schemas and writing advanced SQL queries.
 
--  📚Academically, I have been honored with the Merit Scholarship at Christ University for my exceptional performance. Beyond academics, I lead the social media strategy as the Core Social Media Manager for MirAI, the AI and Analytics Committee, where I leverage data to enhance our digital presence and boost community engagement.  
+- **Predictive Modeling & EDA**: Skilled in creating models that uncover patterns and inform business strategies.
+
+- **Dashboarding & BI Tools**: Proficient in Power BI and Tableau for creating interactive dashboards.
+
+- **Cross-functional Collaboration**: Strong communicator with experience aligning data insights with product and business goals.
+
+## 📝 About Me
+- **Blogger on Real-World Data**: Sharing insights on how data shapes decision-making in various contexts.
   
+- **Creative Poet**: Writing Hindi poetry inspired by life's nuances, adding a unique perspective to my analytical work.
+  
+- **Fitness Enthusiast**: Committed to a balanced lifestyle that enhances focus and professional growth.
 
-- ⚡ My passion lies in exploring innovative data solutions and delivering impactful insights. I am eager to embrace new challenges and contribute to data-driven strategies that shape business success.
-
-Let’s connect and collaborate on transforming data into meaningful actions!  
+Feel free to explore my projects and connect with me! 
   
 
 <br/>  
