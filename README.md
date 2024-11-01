@@ -61,22 +61,24 @@ Let’s connect and collaborate on transforming data into meaningful actions!
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/MrVerma29" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/MrVerma29" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-priyank-verma-6752a0185/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/sarthak-priyank-verma-6752a0185/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/itsss_priyank?igsh=b2l0OXFqcjFnZzdr" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/itsss_priyank?igsh=b2l0OXFqcjFnZzdr" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCHUpr9uD8mcCPhORb_c2nBQ" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+<a href="https://www.youtube.com/channel/UCHUpr9uD8mcCPhORb_c2nBQ" target="_blank">
+<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
+</a>
+<a href="https://itsmrverma.blogspot.com/?m=1" target="_blank">
+<img src="https://img.shields.io/badge/blogspot-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="blog" style="margin-bottom: 5px;" />
+</a>
 </div>  
-  
-
-<br/>  
+<br/>
+ 
 
 
 ## Github Stats  
