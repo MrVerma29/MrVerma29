@@ -37,7 +37,7 @@ Welcome to my GitHub profile, where I share my journey through data science, ana
   
 - **Fitness Enthusiast**: Committed to a balanced lifestyle that enhances focus and professional growth.
 
-## Feel free to explore my projects and connect with me! 
+#### <div align="center"># Feel free to explore my projects and connect with me! </div>  
   
 
 <br/>  
